@@ -1,10 +1,14 @@
-# pokemon
+# moviemuse app using getX
 
 A new Flutter project.
+Flutter Project Following Clean Architecture with GetX State Management
+
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter project implements Clean Architecture principles, utilizing GetX for state management.
 
 A few resources to get you started if this is your first Flutter project:
 
